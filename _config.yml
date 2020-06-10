@@ -7,4 +7,4 @@ description: This is my Github page
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username: Kyuubang # DO NOT include the @ character, or else the build will fail!
 theme: minima
-# show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
